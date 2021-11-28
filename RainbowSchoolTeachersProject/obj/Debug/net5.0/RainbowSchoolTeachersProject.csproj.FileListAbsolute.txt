@@ -1,0 +1,32 @@
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\Assessment\RainbowSchoolTeachersProject\RainbowSchoolTeachersProject\obj\Debug\net5.0\RainbowSchoolTeachersProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\Assessment\RainbowSchoolTeachersProject\RainbowSchoolTeachersProject\obj\Debug\net5.0\RainbowSchoolTeachersProject.AssemblyInfoInputs.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\Assessment\RainbowSchoolTeachersProject\RainbowSchoolTeachersProject\obj\Debug\net5.0\RainbowSchoolTeachersProject.AssemblyInfo.cs
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\Assessment\RainbowSchoolTeachersProject\RainbowSchoolTeachersProject\obj\Debug\net5.0\RainbowSchoolTeachersProject.csproj.CoreCompileInputs.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\Assessment\RainbowSchoolTeachersProject\RainbowSchoolTeachersProject\bin\Debug\net5.0\RainbowSchoolTeachersProject.exe
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\Assessment\RainbowSchoolTeachersProject\RainbowSchoolTeachersProject\bin\Debug\net5.0\RainbowSchoolTeachersProject.deps.json
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\Assessment\RainbowSchoolTeachersProject\RainbowSchoolTeachersProject\bin\Debug\net5.0\RainbowSchoolTeachersProject.runtimeconfig.json
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\Assessment\RainbowSchoolTeachersProject\RainbowSchoolTeachersProject\bin\Debug\net5.0\RainbowSchoolTeachersProject.runtimeconfig.dev.json
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\Assessment\RainbowSchoolTeachersProject\RainbowSchoolTeachersProject\bin\Debug\net5.0\RainbowSchoolTeachersProject.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\Assessment\RainbowSchoolTeachersProject\RainbowSchoolTeachersProject\bin\Debug\net5.0\ref\RainbowSchoolTeachersProject.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\Assessment\RainbowSchoolTeachersProject\RainbowSchoolTeachersProject\bin\Debug\net5.0\RainbowSchoolTeachersProject.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\Assessment\RainbowSchoolTeachersProject\RainbowSchoolTeachersProject\obj\Debug\net5.0\RainbowSchoolTeachersProject.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\Assessment\RainbowSchoolTeachersProject\RainbowSchoolTeachersProject\obj\Debug\net5.0\ref\RainbowSchoolTeachersProject.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\Assessment\RainbowSchoolTeachersProject\RainbowSchoolTeachersProject\obj\Debug\net5.0\RainbowSchoolTeachersProject.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\Assessment\RainbowSchoolTeachersProject\RainbowSchoolTeachersProject\obj\Debug\net5.0\RainbowSchoolTeachersProject.genruntimeconfig.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\Assessment\RainbowSchoolTeachersProject\RainbowSchoolTeachersProject\obj\Debug\net5.0\RainbowSchoolTeachersProject.csproj.AssemblyReference.cache
+C:\Training\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject\bin\Debug\net5.0\RainbowSchoolTeachersProject.exe
+C:\Training\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject\bin\Debug\net5.0\RainbowSchoolTeachersProject.deps.json
+C:\Training\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject\bin\Debug\net5.0\RainbowSchoolTeachersProject.runtimeconfig.json
+C:\Training\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject\bin\Debug\net5.0\RainbowSchoolTeachersProject.runtimeconfig.dev.json
+C:\Training\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject\bin\Debug\net5.0\RainbowSchoolTeachersProject.dll
+C:\Training\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject\bin\Debug\net5.0\ref\RainbowSchoolTeachersProject.dll
+C:\Training\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject\bin\Debug\net5.0\RainbowSchoolTeachersProject.pdb
+C:\Training\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject\obj\Debug\net5.0\RainbowSchoolTeachersProject.csproj.AssemblyReference.cache
+C:\Training\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject\obj\Debug\net5.0\RainbowSchoolTeachersProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject\obj\Debug\net5.0\RainbowSchoolTeachersProject.AssemblyInfoInputs.cache
+C:\Training\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject\obj\Debug\net5.0\RainbowSchoolTeachersProject.AssemblyInfo.cs
+C:\Training\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject\obj\Debug\net5.0\RainbowSchoolTeachersProject.csproj.CoreCompileInputs.cache
+C:\Training\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject\obj\Debug\net5.0\RainbowSchoolTeachersProject.dll
+C:\Training\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject\obj\Debug\net5.0\ref\RainbowSchoolTeachersProject.dll
+C:\Training\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject\obj\Debug\net5.0\RainbowSchoolTeachersProject.pdb
+C:\Training\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject-master\RainbowSchoolTeachersProject\obj\Debug\net5.0\RainbowSchoolTeachersProject.genruntimeconfig.cache
